@@ -1,0 +1,8 @@
+
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Íéž´ýÿÿÿÿ8’ÖÌÊƒ/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¶¨¡ž8“çðùƒ/
+<
+java:S1640"Convert this Map to an EnumMap.(–û¸”8œÛÙÊƒ/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¨š¢Óùÿÿÿÿ8¢ÖåÊƒ/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Êž¥øÿÿÿÿ8î·õùƒ/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ëÎžüÿÿÿÿ8Éö§Êƒ/

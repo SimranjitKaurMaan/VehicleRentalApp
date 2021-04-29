@@ -1,0 +1,5 @@
+
+e
+java:S3824?"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(–š´8ü¼Óñƒ/
+j	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öì°ã8ü¼Óñƒ/
+€	java:S116"_Rename this field "BookingsByVehicleIds" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¡¬ûÿÿÿÿ8ş¦ßğƒ/
